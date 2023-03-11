@@ -1,4 +1,4 @@
-# joints_meet2
+# Training Flutter Rest API for JOINTS
 
 A new Flutter project.
 
